@@ -1,0 +1,12 @@
+body{
+    background: rgb(204,204,204);
+}
+
+#title-font{
+    width: 500px;
+    font-family: "Hammersmith One";
+    font-size: 6.0em;
+    color: white;
+    text-align: center;
+    margin: auto;
+}
